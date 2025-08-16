@@ -1,0 +1,4 @@
+deployment:
+tasks:
+- export DEPLOYPATH=/home/coolxdzv/websockets.coollive.site
+- cp -r * $DEPLOYPATH

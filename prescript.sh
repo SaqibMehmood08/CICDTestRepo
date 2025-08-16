@@ -1,7 +1,7 @@
 #!/bin/bash
 # This script runs after deployment
 
-echo "✅ Pre-deploy script started"
+echo "✅ Pre-deploy script starting"
 echo "Deployment directory contents:"
 ls -l
 
